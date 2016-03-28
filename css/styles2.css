@@ -1,0 +1,23 @@
+h1 {
+  text-align: center;
+  color: #3FBFBD;
+  font-weight: bolder;
+  font-family: cursive;
+}
+
+h2 {
+  text-align: center;
+  color:black;
+  font-weight: bolder;
+}
+
+h3 {
+  text-align: center;
+  color: black;
+  font-weight: bolder;
+}
+
+body {
+  text-align: center;
+  background-color: #D4D8D8;
+}
