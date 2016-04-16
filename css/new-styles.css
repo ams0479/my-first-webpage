@@ -1,14 +1,13 @@
-p.intro {
-  width:50%;
-  font-style:italic;
+body {
+  background-color: EEDBB9;
 }
 
-p.author {
-  width: 75%;
-  font-style: italic;
-  font-weight: bold;
-}
-
-.important {
+.flashy {
   color: red;
+  font-style: italic;
+}
+
+.best {
+  color: 19265A;
+  text-shadow: white 2px 5px; 
 }
