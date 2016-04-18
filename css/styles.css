@@ -16,3 +16,19 @@ ul {
   font-size: 20px;
   line-height: 30px;
 }
+
+.important {
+  color: red;
+}
+
+.unimportant {
+  color: blue;
+}
+
+.highlight {
+  color:yellow;
+}
+
+.fish-type {
+  color:purple;
+}
