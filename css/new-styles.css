@@ -9,5 +9,23 @@ body {
 
 .best {
   color: 19265A;
-  text-shadow: white 2px 5px; 
+  text-shadow: white 2px 5px;
+}
+
+@media screen and (max-width:700px) {
+  .flashy {
+    color:blue;
+  }
+  img {
+    display:none;
+  }
+}
+
+@media print {
+  * {
+    background: transparent !important;
+    color: #000 !important;
+    box-shadow: none !important;
+    text-shadow: none !important;
+  }
 }
